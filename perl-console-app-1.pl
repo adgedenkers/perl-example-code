@@ -5,9 +5,6 @@
 # args to ask for upon execution
 
 # branding
-print "Dynamic Interface For Records (DIFR) Custom Setup\n";
-print "Copyright 2015 BCIV through EtherFeat LLC\n";
-print "2015-09-16 build 0.1.1\n";
 
 # make sure user is root
 my $login = (getpwuid $>);
